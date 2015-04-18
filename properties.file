@@ -1,0 +1,10 @@
+google.api.key = xxxxxxxx
+facebook.app.id = xxxxxxxx
+facebook.access.token = xxxxxxxx
+aws.access.key = xxxxxxxx
+aws.secret.key = xxxxxxxx
+aws.s3.bucket.name.images = xxxxxxxx
+aws.s3.bucket.name.logs = xxxxxxxx
+aws.postgres.endpoint.development = xxxxxxxx
+aws.postgres.endpoint.stage = xxxxxxxx
+aws.postgres.endpoint.production = xxxxxxxx

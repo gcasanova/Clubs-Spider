@@ -1,0 +1,16 @@
+{
+  "name": "Clubs-Spider",
+  "version": "0.1.0",
+  "description": "Clubs-Spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js"
+  ],
+  "author": "GCasanova",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
